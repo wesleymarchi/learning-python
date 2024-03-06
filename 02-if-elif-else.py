@@ -5,8 +5,9 @@ print(heros)
 
 x = 5
 y = 10
-z = x > 10
+z = x > y  # False
 
+    # True       True
 if (x >= 5) and (y <= 10):
     print('x: ' + str(x) + '\ny: ' + str(y))
 
@@ -16,10 +17,12 @@ if (x > 5) or (y > 5):
 if z:  # false
     print(str(x) + ' é maior que ' + str(y))
 
+print("++++++++++++++++++++++++++++++++++++++")
+
 if not z:  # true
     print(str(x) + ' é maior que ' + str(y) + '?')
 
-hero = heros[-1].lower()
+hero = heros[-1].lower()  # rorschach
 
 if hero == 'superman':
     print('Voa super!')
