@@ -9,5 +9,5 @@ print(heros[2:]) # terceiro até o final
 print(heros[-2:]) # exibe dois itens a partir do fim da lista
 
 # Loop com fatias
-for hero in heros[:3]:
+for hero in heros[:3]: # exibe os três primeiros itens
     print(hero)

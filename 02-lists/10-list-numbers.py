@@ -13,9 +13,10 @@ print(even_numbers)
 
 # Definindo o quadrado da lista
 squares = []  # lista vazia
+print(squares)
 for value in range(1, 11):
     square = value**2
-    squares.append(square) # Concatena square na lista
+    squares.append(square)  # Concatena square na lista
 
 print(squares)
 

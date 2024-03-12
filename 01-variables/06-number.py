@@ -11,6 +11,7 @@ print(a + b)
 print(x + y)
 
 print("Subtração: ")
+print("Quanto vale a e b?", a, b)
 print(a - b)
 print(x - y)
 

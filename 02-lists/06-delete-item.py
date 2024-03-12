@@ -17,4 +17,4 @@ print(heros)
 
 # Removendo pelo valor - apenas a primeira ocorrencia
 heros.remove('batman')
-print(heros) # Lista vazia
+print(heros)  # Lista vazia
