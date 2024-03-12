@@ -1,4 +1,4 @@
-# PYTHON: INTRODUÇÃO AOS OPERADORES, CONDICIONAIS E LOOPS
+# PYTHON: INTRODUÇÃO E LÓGICA NA RESOLUÇÃO DE PROBLEMAS
 
 Aula para explicar algumas estruturas em Python.<br />
 Foi utilizado: <br /> 
