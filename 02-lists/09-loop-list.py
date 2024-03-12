@@ -1,7 +1,7 @@
-# laço de repetição
+# Percorrendo uma lista com for
 
 heros = ['batman', 'superman', 'spiderman', 'rorschach']
 
-# exibe cada item da lista
+# Estrutura for para realizar um loop na lista
 for hero in heros:
     print(hero.title())

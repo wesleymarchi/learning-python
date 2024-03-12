@@ -1,6 +1,7 @@
 # Dicionário dentro de outro dicionário
+
 users = {
-    'aeinstein': {
+    'einstein': {
         'first': 'albert',
         'last': 'einstein',
         'location': 'princeton',
@@ -31,3 +32,4 @@ for username, info in users.items():
     location = info['location']
 
     print("\tFull name: " + full_name.title())
+    print("\tLocation: " + location.title())

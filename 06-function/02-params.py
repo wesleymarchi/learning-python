@@ -2,6 +2,7 @@
 
 def greet_user(hero):
     """" Exibe uma mensagem. """
+
     print("Hello, " + hero.title())
 
 

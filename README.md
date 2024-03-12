@@ -3,16 +3,19 @@
 Aula para explicar algumas estruturas em Python.<br />
 Foi utilizado: <br /> 
 - [x] PyCharm
-- [x] Python 3.10
+- [x] Python 3.12
 
 ## Summary
 
 - [x] Introdução
+- [x] Variáveis
+- [x] Tipos de Dados
+- [x] Listas
+- [x] Dicionário
 - [x] Operadores
 - [x] Operadores Lógicos
 - [x] Estrutura if..elif..else
 - [x] Laços de Repetição (Loops)
-- [x] Dicionário
 - [x] Funções
 
 ## Prerequisites
