@@ -1,4 +1,6 @@
 # Função com retorno
+
+
 def get_full_name(first_name, last_name, middle_name=''):
     """ Retorna o nome completo """
 

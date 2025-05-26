@@ -1,4 +1,6 @@
 # Modificando lista em função
+
+
 def print_heros(unprinted_heros, completed_heros):
     """ Imprime herois e transfere para outra lista """
 

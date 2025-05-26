@@ -9,4 +9,4 @@ def describe_hero(team, hero='batman'):
 
 describe_hero('squad')
 describe_hero(team='rorschach')
-describe_hero(team='rorschach', hero='spiderman')
+describe_hero(team='vingadores', hero='spiderman')

@@ -1,4 +1,5 @@
 # Flag de saída
+
 def get_hero(first_name, last_name):
     """ Retorna nome e sobrenome """
 

@@ -1,4 +1,6 @@
 # Passando um número arbitrario de argumentos
+
+
 def heros(*list_heros):
     """ Exibe uma lista de herois. """
 

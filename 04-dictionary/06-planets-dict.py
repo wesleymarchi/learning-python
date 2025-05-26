@@ -1,5 +1,5 @@
 # Dicionário com os planetas
-planets = {
+sistema_solar = {
     'mercurio': {
         'temperature': 179,
     },
@@ -33,7 +33,7 @@ planets = {
     },
 }
 
-for planet, temperature in planets.items():
+for planet, temperature in sistema_solar.items():
     value = temperature['temperature']
     print("\nPlaneta: " + planet.title())
     print("\tTemperatura: " + str(value))

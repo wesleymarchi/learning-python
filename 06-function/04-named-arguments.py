@@ -8,3 +8,4 @@ def describe_hero(team, hero):
 
 
 describe_hero(hero='rorschach', team='Watchmen')
+describe_hero(hero='patricia', team='vingadores')

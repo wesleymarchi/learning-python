@@ -1,4 +1,6 @@
-# Lista como parâemtro
+# Lista como parâmetro
+
+
 def welcome(heros):
     """ Saudação para uma lista de herois """
 
